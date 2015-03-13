@@ -1,0 +1,25 @@
+{
+    "name": "Webmaker.org",
+    "description": "Webmaker is Mozilla's project to teach the web.",
+    "repository": {
+        "url": "https://github.com/mozilla/webmaker.org",
+        "license": "MPL 2.0",
+        "tests": "https://travis-ci.org/mozilla/webmaker.org"
+    },
+    "participate": {
+        "home": "https://github.com/mozilla/webmaker.org",
+        "docs": "https://github.com/mozilla/webmaker.org#tldr-if-youve-done-this-before"
+    },
+    "bugs": {
+        "list": "https://bugzilla.mozilla.org/buglist.cgi?product=Webmaker&component=webmaker.org&resolution=---",
+        "report": "https://bugzilla.mozilla.org/enter_bug.cgi?product=Webmaker&component=webmaker.org"
+    },
+    "urls": {
+        "prod": "https://webmaker.org/"
+    },
+    "keywords": [
+        "node.js",
+        "javascript",
+        "mozilla foundation"
+    ]
+}
